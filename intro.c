@@ -60,5 +60,6 @@ void notMain()
 
 #include <string.h>
 #include "include/gba.h"
+#include "useful.h"
 #include "companylogo.c"
 
